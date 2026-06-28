@@ -31,3 +31,5 @@ From batch WEBP optimization to instant social media resizing and Groq-powered A
 *   Cinematic Hacker Boot Sequence & Splash Screen
 *   Tabbed Workspace UI
 *   Real-time progress bar animations
+
+![ImageGenius](ImageGenius.webp)
