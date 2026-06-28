@@ -2,7 +2,7 @@
 
 # 📸 ImageGenius - The Ultimate Creator Toolkit
 
-[Click here to view the live website!](https://filegenius.michaelmondala.site)
+[Click here to view the live website!](https://imagegenius.michaelmondala.site)
 
 ## 🚀 About The Project
 ImageGenius is a premium, Full-Stack Windows application designed specifically for Content Creators, Social Media Managers, and Web Developers. It eliminates hours of manual image processing by combining high-speed local Python image engines with cutting-edge Cloud AI.
